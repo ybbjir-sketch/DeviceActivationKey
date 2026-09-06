@@ -40,5 +40,11 @@
         "key": "HAZRAT",
         "expirydate": "13-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c9dbd7ed06bccd63",
+        "key": "artin",
+        "expirydate": "13-09-2027",
+        "Allowoffline": false
     }
 ]
