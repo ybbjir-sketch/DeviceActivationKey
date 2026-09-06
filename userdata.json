@@ -34,5 +34,11 @@
         "key": "Vahshi",
         "expirydate": "27-03-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "de85f6727a3b1a67",
+        "key": "HAZRAT",
+        "expirydate": "13-09-2026",
+        "Allowoffline": false
     }
 ]
