@@ -28,5 +28,11 @@
         "key": "refigh",
         "expirydate": "27-03-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8f12134379642ce2",
+        "key": "Vahshi",
+        "expirydate": "27-03-2027",
+        "Allowoffline": false
     }
 ]
