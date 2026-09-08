@@ -50,7 +50,13 @@
     {
         "device_id": "30050b03c683ad81",
         "key": "b",
-        "expirydate": "18-09-2027",
+        "expirydate": "15-09-2027",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "03e6d66e64787559",
+        "key": "Viking",
+        "expirydate": "15-09-2027",
         "Allowoffline": false
     }
 ]
