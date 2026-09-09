@@ -70,5 +70,11 @@
         "key": "Hercule_kabir",
         "expirydate": "09-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "56d5379425d8253e",
+        "key": "MMD",
+        "expirydate": "16-09-2026",
+        "Allowoffline": false
     }
 ]
