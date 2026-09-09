@@ -64,5 +64,11 @@
         "key": "Eblis",
         "expirydate": "10-09-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f555e018d67c3e4a",
+        "key": "Hercule_kabir",
+        "expirydate": "09-10-2027",
+        "Allowoffline": false
     }
 ]
