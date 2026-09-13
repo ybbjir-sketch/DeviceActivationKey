@@ -76,5 +76,11 @@
         "key": "MMD",
         "expirydate": "16-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "94942095df8cb975",
+        "key": "Pawel",
+        "expirydate": "14-09-2026",
+        "Allowoffline": false
     }
 ]
